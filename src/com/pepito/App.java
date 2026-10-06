@@ -1,3 +1,4 @@
+package com.pepito;
 import java.util.Scanner;
 
 public class App {
